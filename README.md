@@ -11,6 +11,11 @@
 - Socket (TCP)
 - Bluetooth API
 
+### APP Feature
+
+- 저전력 블루투스를 이용해 주변 비콘 장치 스캔
+- 스캔된 비콘 정보와 Distance를 Socket을 이용해 서버에 전송
+
 ## Contact
 
 - 김다훈 (kimdahoon75@gmail.com)
